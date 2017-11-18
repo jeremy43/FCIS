@@ -1,0 +1,5 @@
+[08:37:38] d:\daijifeng001\mxnet\src\kvstore\./comm.h:304: only 4 out of 12 GPU pairs are enabled direct access. It may affect the performance. You can set MXNET_ENABLE_GPU_P2P=0 to turn it off
+[08:37:38] d:\daijifeng001\mxnet\src\kvstore\./comm.h:313: .v..
+[08:37:38] d:\daijifeng001\mxnet\src\kvstore\./comm.h:313: v...
+[08:37:38] d:\daijifeng001\mxnet\src\kvstore\./comm.h:313: ...v
+[08:37:38] d:\daijifeng001\mxnet\src\kvstore\./comm.h:313: ..v.
